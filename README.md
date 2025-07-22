@@ -3,7 +3,7 @@
 🎓 MSc Data Science & Artificial Intelligence | BSc Accounting & Finance  
 📍 Based in the UK
 
-I'm building a professional portfolio to showcase my academic projects, technical skills, and interest in data-led decision making. I’m focused on developing practical, data-driven skills that can be applied in business, marketing, and research.
+I'm building a portfolio to showcase my academic projects, technical skills, and interest in data-led decision making. I’m focused on developing practical, data-driven skills that can be applied in business, marketing, and research.
 
 ---
 
@@ -21,16 +21,20 @@ I'm building a professional portfolio to showcase my academic projects, technica
 
 ## Projects
 
-### 🔹 [Applied Statistical Analysis 1](https://github.com/tabithacarnell/statistics)
-*DESCRIPTION*
-### 🔹 [Applied Statistical Analysis 2](https://github.com/tabithacarnell/statistics-and-econometrics-project)
-### 🔹 [Data Analysis and Predictive Modelling](https://github.com/tabithacarnell/data-analytics-project) 
-### 🔹 [tbc](https://github.com/tabithacarnell/data_mining) 
-### 🔹 [tbc](https://github.com/tabithacarnell/information_retrieval) 
-### 🔹 [tbc](https://github.com/tabithacarnell/machine_learning) 
-### 🔹 [tbc](https://github.com/tabithacarnell/risk_decision_making) 
-### 🔹 [tbc](https://github.com/tabithacarnell/neural_networks) 
-### 🔹 [Undergraduate Dissertation](https://github.com/tabithacarnell/accounting-fraud-dividend-smoothing)
+### 🔹 [Applied Statistical Analysis: Real-World Insights with Python](https://github.com/tabithacarnell/statistics)
+*Used python packages (pandas, matplotlib, scikit-learn) to perform regression analysis, hypothesis testing, and bootstrap evaluation on real datasets.*
+### 🔹 [Applied Statistical Analysis: Real-World Insights with Excel](https://github.com/tabithacarnell/statistics-and-econometrics-project)
+*Applied econometric techniques using excel to explore macroeconomic patterns and policy-driven effects.*
+### 🔹 [Data Analysis & Forecasting: Real-World Insights with SQL](https://github.com/tabithacarnell/data-analytics-project) 
+*Denormalised and merged datasets using foreign keys, applied pivot tables, and built regression models to identify key predictors and forecast outcomes.*
+### 🔹 [Building a Smart Search Engine](https://github.com/tabithacarnell/information_retrieval) 
+*Designed a Python-based, working search engine using Elasticsearch and BM25-f, implementing field weighting, evaluation metrics, and relevance tuning.*
+### 🔹 [Data Mining & Clustering: Detecting Patterns & Outliers in Data](https://github.com/tabithacarnell/data_mining) 
+*Applied PCA, K-Means, outlier detection, and clustering on high-dimensional data with scikit-learn and pandas.*
+### 🔹 [Truth or Lie? Audio Deception Detection](https://github.com/tabithacarnell/machine_learning) 
+*Engineered features from 30-second audio clips and trained classification models (SVM, Logistic Regression) to detect truth vs deception.*
+### 🔹 [Investigating Accounting Fraud & Dividends](https://github.com/tabithacarnell/accounting-fraud-dividend-smoothing)
+*Undergraduate dissertation using statistical analysis in Stata to examine dividend smoothing patterns in fraudulent firms.*
 
 _More projects will be added soon._
 
