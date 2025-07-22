@@ -31,7 +31,7 @@ I'm building a portfolio to showcase my academic projects, technical skills, and
 *Designed a Python-based, working search engine using Elasticsearch and BM25-f, implementing field weighting, evaluation metrics, and relevance tuning.*
 ### 🔹 [Data Mining & Clustering: Detecting Patterns & Outliers in Data](https://github.com/tabithacarnell/data_mining) 
 *Applied PCA, K-Means, outlier detection, and clustering on high-dimensional data with scikit-learn and pandas.*
-### 🔹 [Truth or Lie? Audio Deception Detection](https://github.com/tabithacarnell/machine_learning) 
+### 🔹 [Truth or Lie? Audio Deception Detection](https://github.com/tabithacarnell/machine-learning) 
 *Engineered features from 30-second audio clips and trained classification models (SVM, Logistic Regression) to detect truth vs deception.*
 ### 🔹 [Investigating Accounting Fraud & Dividends](https://github.com/tabithacarnell/accounting-fraud-dividend-smoothing)
 *Undergraduate dissertation using statistical analysis in Stata to examine dividend smoothing patterns in fraudulent firms.* 
