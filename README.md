@@ -34,9 +34,9 @@ I'm building a portfolio to showcase my academic projects, technical skills, and
 ### 🔹 [Truth or Lie? Audio Deception Detection](https://github.com/tabithacarnell/machine_learning) 
 *Engineered features from 30-second audio clips and trained classification models (SVM, Logistic Regression) to detect truth vs deception.*
 ### 🔹 [Investigating Accounting Fraud & Dividends](https://github.com/tabithacarnell/accounting-fraud-dividend-smoothing)
-*Undergraduate dissertation using statistical analysis in Stata to examine dividend smoothing patterns in fraudulent firms.*
+*Undergraduate dissertation using statistical analysis in Stata to examine dividend smoothing patterns in fraudulent firms.* 
 
-_More projects will be added soon._
+> More projects will be added soon!
 
 ---
 
