@@ -26,7 +26,7 @@ I'm building a portfolio to showcase my academic projects, technical skills, and
 ### 🔹 [Applied Statistical Analysis: Real-World Insights with Excel](https://github.com/tabithacarnell/statistics-and-econometrics-project)
 *Applied econometric techniques using excel to explore macroeconomic patterns and policy-driven effects.*
 ### 🔹 [Data Analysis & Forecasting: Real-World Insights with SQL](https://github.com/tabithacarnell/data-analytics-project) 
-*Denormalised and merged datasets using foreign keys, applied pivot tables, and built regression models to identify key predictors and forecast outcomes.*
+*Denormalised and merged datasets using relational keys, applied pivot tables, and built regression models to identify key predictors and forecast outcomes.*
 ### 🔹 [Building a Smart Search Engine](https://github.com/tabithacarnell/information_retrieval) 
 *Designed a Python-based, working search engine using Elasticsearch and BM25-f, implementing field weighting, evaluation metrics, and relevance tuning.*
 ### 🔹 [Data Mining & Clustering: Detecting Patterns & Outliers in Data](https://github.com/tabithacarnell/data_mining) 
