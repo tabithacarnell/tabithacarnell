@@ -3,7 +3,7 @@
 🎓 MSc Data Science & Artificial Intelligence | BSc Accounting & Finance  
 📍 Based in the UK
 
-I'm building a portfolio to showcase my academic projects, technical skills, and interest in data-led decision making. I’m focused on developing practical, data-driven skills that can be applied in business, marketing, and research.
+This portfolio showcases my academic projects, technical skills, and interest in data-led decision making. I’m focused on developing practical, data-driven skills that can be applied in business, marketing, and research.
 
 ---
 
